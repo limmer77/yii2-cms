@@ -15,6 +15,9 @@ It was created and developing as a fast start for building an advanced sites bas
 
 It covers typical use cases for a new project and will help you not to waste your time doing the same work in every project
 
+## Before you start
+Please, consider helping project via [contributions](https://github.com/trntv/yii2-starter-kit/issues) or (donations)[#donations]. 
+
 ## TABLE OF CONTENTS
 - [Demo](#demo)
 - [Features](#features)
@@ -27,6 +30,7 @@ It covers typical use cases for a new project and will help you not to waste you
 - [Testing](docs/testing.md)
 - [FAQ](#faq)
 - [How to contribute?](#how-to-contribute)
+- [Donations](#donations)
 - [Have any questions](#have-any-questions)
 
 ##DEMO
@@ -295,6 +299,12 @@ Gii is available on:
 ##How to contribute?
 You can contribute in any way you want. Any help appreciated, but most of all i need help with docs (^_^)
 
+##Donations
+- [Paypal] (https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X7UFA3F3ALPM8)
+- [Bitcoin] (https://www.coinbase.com/checkouts/2f1c1cb31c395e5aaafa1ba70003552e)
+- [WebMoney] (Z110052695454)
+- Other way: [eugene@terentev.net](mailto:eugene@terentev.net)
+
 ##Have any questions?
 mail to [eugene@terentev.net](mailto:eugene@terentev.net)
 
@@ -306,3 +316,4 @@ https://github.com/yiisoft/yii2/tree/master/docs
 This template was created mostly for developers NOT for end users.
 This is a point where you can begin your application, rather than creating it from scratch.
 Good luck!
+

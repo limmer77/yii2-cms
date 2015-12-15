@@ -5,6 +5,7 @@
     "yii2",
     "framework",
     "start",
+    "cms",
     "application template",
     "yii2 advanced"
   ],
@@ -25,7 +26,7 @@
   "require": {
     "php": ">=5.5.0",
     "ext-intl": "*",
-    "yiisoft/yii2": "^2.0.6@dev",
+    "yiisoft/yii2": "^2.0.6",
     "yiisoft/yii2-bootstrap": "^2.0.0",
     "yiisoft/yii2-swiftmailer": "^2.0.0",
     "yiisoft/yii2-authclient": "^2.0.0",
@@ -34,9 +35,9 @@
     "mihaildev/yii2-elfinder": "^1.0",
     "trntv/yii2-aceeditor": "^2.0",
     "trntv/probe": "^0.2",
-    "trntv/yii2-file-kit": "^1.0.0@dev",
+    "trntv/yii2-file-kit": "^1.0.0",
     "trntv/yii2-glide": "^1.0.0",
-    "trntv/yii2-bootstrap-datetimepicker": "^1.5",
+    "trntv/yii2-datetime-widget": "^1.0.0",
     "trntv/yii2-tactician": "^0.1.0",
     "trntv/cheatsheet": "^0.1@dev",
     "intervention/image": "^2.1",

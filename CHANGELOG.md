@@ -3,6 +3,8 @@ Yii Starter Kit Change Log
 
 2.1.0 under development
 -----------------------
+- API Fixes
+- Fixed: password_confirm not validated
 - Enh: Shortcuts file added
 - Enh: Assets compression support
 - Enh #192: Docker support
@@ -57,6 +59,7 @@ Yii Starter Kit Change Log
 - Enh: FileCache now uses same path for all applications
 - Enh: common\components\behaviors\CacheInvalidateBehavior
 - ... Fixes ...
+- Added ability to configure timezone and name of vagrant box
 
 1.4.1
 -----
