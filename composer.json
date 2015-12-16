@@ -64,13 +64,4 @@
       "bower-asset-library": "vendor/bower"
     }
   }
-  "repositories": [
-    {
-        "type": "vcs",
-        "url": "http://github.com/limmer77/yii2-cms"
-    }
-  ],
-  "require": {
-    "owner/packageName": "dev-my-bugfix"
-  },
 }
