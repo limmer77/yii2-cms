@@ -20,8 +20,8 @@
   "type": "project",
   "license": "BSD-3-Clause",
   "support": {
-    "issues": "https://github.com/trntv/yii2-starter-kit/issues?state=open",
-    "source": "https://github.com/trntv/yii2-starter-kit"
+    "issues": "https://github.com/limmer77/yii2-cms/issues?state=open",
+    "source": "https://github.com/limmer77/yii2-cms"
   },
   "minimum-stability": "dev",
   "require": {
